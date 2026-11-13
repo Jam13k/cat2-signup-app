@@ -54,7 +54,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body>
     <div class="card">
-        <h1>Create an account</h1>
+        <h1>CNS Student Portal: Sign Up</h1>
         <p class="sub">Register to access the student portal.</p>
 
         <?php foreach ($errors as $e): ?>

@@ -33,7 +33,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body>
     <div class="card">
-        <h1>Welcome back</h1>
+        <h1>CNS Student Portal: Log In</h1>
         <p class="sub">Log in to your student portal.</p>
 
         <?php if ($error): ?>
